@@ -6,7 +6,7 @@
 [video]: https://www.bilibili.com/video/BV1FA411x7Kw
 
 
-一些游戏截图：
+一些游戏截图（可能需要一些时间加载出来）：
 
 ![](./Screenshots/Snipaste_2020-12-01_00-07-56.png)
 ![](./Screenshots/Snipaste_2020-12-01_00-08-08.png)
