@@ -1,6 +1,8 @@
 # Mirror-world
 使用unity开发的一款2D解谜闯关类游戏
 
+由于图片等相关素材没有征得美工同意，就没有公布出来，现在只公布了源码。
+
 游戏介绍请转至哔哩哔哩：***[bilibili >][video]***	
 
 [video]: https://www.bilibili.com/video/BV1FA411x7Kw
